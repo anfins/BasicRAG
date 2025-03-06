@@ -8,3 +8,4 @@ langchain-community
 typing-extensions
 langchain-text-splitters
 faiss-cpu
+streamlit
